@@ -1,0 +1,12 @@
+<Solution>
+  <Project Path="01_Object_Oriented_Programming/01_Object_Oriented_Programming.csproj" />
+  <Project Path="02_Design_Principles/02_Design_Principles.csproj" />
+  <Project Path="03_UML/03_UML.csproj" />
+  <Project Path="04_Design_Patterns_Creational/04_Design_Patterns_Creational.csproj" />
+  <Project Path="05_Design_Patterns_Structural/05_Design_Patterns_Structural.csproj" />
+  <Project Path="06_Design_Patterns_Behavioral/06_Design_Patterns_Behavioral.csproj" />
+  <Project Path="07_LLD_Interview_Tips/07_LLD_Interview_Tips.csproj" />
+  <Project Path="08_LLD_Interview_Questions_Easy/08_LLD_Interview_Questions_Easy.csproj" />
+  <Project Path="09_LLD_Interview_Questions_Medium/09_LLD_Interview_Questions_Medium.csproj" />
+  <Project Path="10_LLD_Interview_Questions_Hard/10_LLD_Interview_Questions_Hard.csproj" />
+</Solution>
